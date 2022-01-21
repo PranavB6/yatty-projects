@@ -2,6 +2,10 @@
 
 Due: Feb 04, 2021 11:59pm (hand in on discord)
 
+## Purpose
+
+The purpose of this assignment is to get you more comfortable with thinking like a programmer - working with lists, loops and functions
+
 ## Description
 
 Create a hangman game in the terminal. At the start of the game, the computer picks a secret word from a list and shows how many letters the word has in the terminal. 
